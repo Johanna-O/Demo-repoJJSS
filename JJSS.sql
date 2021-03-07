@@ -2,3 +2,4 @@
 
 --Tärkeitä SQL komentoja:
  
+ SELECT * FROM 
